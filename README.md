@@ -6,11 +6,11 @@ Từ kết quả định lượng long mạch, hãy giúp vị triệu phú mô 
 
 ## Yêu cầu
 **Input**: Vào từ thiết bị nhập chuẩn:
-  + Dòng đầu tiên chứa 2 số nguyên m và n (2 ≤ n ≤ m ≤ 100).
-  + Dòng thứ 2 là mảng a chứa m*n số nguyên cách nhau ( với mỗi phần tử trong khoảng giá trị: 231 ≤ a[i] ≤ 231).
+  + Dòng đầu tiên chứa 2 số nguyên m và n (2 ≤ **n** ≤ **m** ≤ 100).
+  + Dòng thứ 2 là mảng a chứa m x n số nguyên cách nhau ( với mỗi phần tử trong khoảng giá trị: 231 ≤ a[i] ≤ 231).
 
 **Output**: Đưa ra thiết bị xuất chuẩn:
-  + Dòng đầu tiên được viết theo định dạng: “rowStart(rS)“, “rowEnd(rE)", “colStart(cS)" “colEnd(cE)".
+  + Dòng đầu tiên được viết theo định dạng: **rowStart(rS)**, **rowEnd(rE)**, **colStart(cS)**, **colEnd(cE)**.
   + Dòng thứ 2 thông báo tổng của các phần tử ma trận con có trọng số lớn nhất. 
   
  ## Ví dụ 
