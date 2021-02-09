@@ -39,7 +39,8 @@ Từ kết quả định lượng long mạch, hãy giúp vị triệu phú mô 
  
  [Xem tại đây](https://github.com/thoconvuive/Pratice-DA-algorithm/blob/main/%C4%90%E1%BA%A5t%20long%20m%E1%BA%A1ch.ipynb)
 
-# Bài toán Đất long mạch 
+
+# Bài toán Đếm sao
 
 ## Đề bài và yêu cầu
 
