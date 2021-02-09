@@ -48,4 +48,4 @@ Từ kết quả định lượng long mạch, hãy giúp vị triệu phú mô 
 
 ## Bài giải
 
-Xem tại đây
+[Xem tại đây](https://github.com/thoconvuive/Pratice-DA-algorithm/blob/main/Gi%E1%BA%A3i%20%C4%91%E1%BA%BFm%20sao.ipynb)
