@@ -19,17 +19,17 @@ Từ kết quả định lượng long mạch, hãy giúp vị triệu phú mô 
  
  **Input and Output requirement**
  
- ![Input and Output requirement](https://github.com/thoconvuive/Pratice-DA-algorithm/blob/main/examples/input_output_example.png)
+ <img src = 'https://github.com/thoconvuive/Pratice-DA-algorithm/blob/main/examples/input_output_example.png' width = 500>
  
  
   **Input**
   
- ![Input matrix](https://github.com/thoconvuive/Pratice-DA-algorithm/blob/main/examples/input.png)
+ <img src = 'https://github.com/thoconvuive/Pratice-DA-algorithm/blob/main/examples/input.png' width = 400>
  
  
   **Output**
   
- ![Output matrix](https://github.com/thoconvuive/Pratice-DA-algorithm/blob/main/examples/output.png)
+ <img src = 'https://github.com/thoconvuive/Pratice-DA-algorithm/blob/main/examples/output.png' width = 400>
  
  ## Hướng tiếp cận 
  
